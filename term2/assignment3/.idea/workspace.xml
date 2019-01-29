@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8797ffb-d722-46a7-a308-8c7d7538d69a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Assign2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assign2/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assign2/src/arrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/studentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testdowhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../graphSearch/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../graphSearch/src/graphSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../practicing/arrayRotation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../practicing/arrayRotation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign1/Commercial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign1/Commercial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign2/src/arrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign2/src/arrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign3/Assignment_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign3/Assignment_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign3/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign3/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign3/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/studentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studentManager.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,6 +19,12 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/assignment3$studentManager.ic" NAME="studentManager Coverage Results" MODIFIED="1548800695667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="176" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -35,10 +40,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/studentManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="60" column="79" selection-start-line="60" selection-start-column="79" selection-end-line="60" selection-end-column="79" />
+            <state relative-caret-position="-259">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding>
-                <element signature="e#246#255#0" expanded="true" />
+                <element signature="e#0#2507#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,6 +84,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,7 +101,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -117,7 +122,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="studentManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="studentManager" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="studentManager" />
       <module name="assignment3" />
       <method v="2">
@@ -145,9 +150,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07673667" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49799198" weight="0.13085622" />
+      <window_info id="Structure" order="1" sideWeight="0.502008" side_tool="true" weight="0.07754443" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -156,7 +162,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3849315" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3178082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -165,6 +171,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32739726" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32956383" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -237,10 +244,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/studentManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="60" column="79" selection-start-line="60" selection-start-column="79" selection-end-line="60" selection-end-column="79" />
+        <state relative-caret-position="-259">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding>
-            <element signature="e#246#255#0" expanded="true" />
+            <element signature="e#0#2507#0" expanded="true" />
           </folding>
         </state>
       </provider>
