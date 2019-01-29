@@ -8,7 +8,6 @@ public class Commercial extends Flight{
 
     Commercial(String departLocation, String destination, Time departTime, Time duration, double securityFee){
         super(departLocation, destination, departTime, duration);
-
         this.status = "On time";
         this.securityFee = securityFee;
     }
@@ -30,6 +29,7 @@ public class Commercial extends Flight{
     public double getSecurityFee(){
         return securityFee;
     }
+
     @Override
     public String toString(){
         return super.toString()+"Status: " + getStatus();
