@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8797ffb-d722-46a7-a308-8c7d7538d69a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../practicing/arrayRotation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../practicing/arrayRotation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign2/src/arrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign2/src/arrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign3/Assignment_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign3/Assignment_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign3/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign3/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign3/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 2.docx" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment4/dictionary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment4/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment4/src/Hangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment4/src/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../printPuzzle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../printPuzzle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment3/studentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment3/studentManager.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/studentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphSearch/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphSearch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphSearch/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphSearch/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphSearch/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphSearch/graphSearch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graphSearch/src/graphSearch.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,29 +36,7 @@
     <option name="myElementSize" value="176" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/studentManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-259">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#2507#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -84,6 +71,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -101,11 +89,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548780425509" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -146,32 +134,38 @@
       <option name="presentableId" value="Default" />
       <updated>1548651009351</updated>
     </task>
+    <task id="LOCAL-00001" summary="apply the try-catch block for whole code">
+      <created>1548800902893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548800902894</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49799198" weight="0.13085622" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49799198" visible="true" weight="0.13408723" />
       <window_info id="Structure" order="1" sideWeight="0.502008" side_tool="true" weight="0.07754443" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" />
+      <window_info id="Learn" order="6" weight="0.32956383" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3178082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39863014" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.31917807" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32739726" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32956383" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -180,6 +174,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32956383" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -210,6 +205,10 @@
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="apply the try-catch block for whole code" />
+    <option name="LAST_COMMIT_MESSAGE" value="apply the try-catch block for whole code" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/annotation/Inherited.java">
@@ -244,11 +243,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/studentManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-259">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#2507#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="257">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
         </state>
       </provider>
     </entry>
